@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://onlineintercollege.com/wp-content/uploads/2023/10/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Adithya Gayashan</h1>
 <h3 align="center">Computer Science Student | Front-end & Back-end Dev Enthusiast ✨</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyagayashan&label=Profile%20views&color=0e75b6&style=flat" alt="adithyagayashan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/?logo=twitter&style=for-the-badge" alt="https://twitter.com/" /></a> </p>
+
 
 - 🔭 I’m currently following **Computer Science**
 
