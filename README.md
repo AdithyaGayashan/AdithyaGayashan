@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **adithyagayashan02@gmail.com**
 
 - ⚡ Fun fact **I'm a coffee enthusiast ☕️, and I firmly believe that the best code is written with a fresh cup in hand. Ask me about my favourite brews! #CodeAndCoffee**
 
